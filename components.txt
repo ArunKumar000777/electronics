@@ -2,3 +2,4 @@ resistor
 capasitor
 transformer
 transistor
+inductor
