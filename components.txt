@@ -3,3 +3,4 @@ capasitor
 transformer
 transistor
 inductor
+Diode
